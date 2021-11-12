@@ -2,7 +2,7 @@
 # Coding-Test-Study
 
 
-## 백준 온라인 저지
+## 🪱 백준 온라인 저지
 
 ## Programmers 
 ### 🕹 SQL
