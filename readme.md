@@ -19,4 +19,4 @@
 [String, Date](./Programmers/SQL/String,%20Date.md)
 
 
-### 알고리즘
+### 🐍 알고리즘
