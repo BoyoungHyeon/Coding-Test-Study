@@ -4,7 +4,7 @@
 
 ## 🪱 백준 온라인 저지
 
-## Programmers 
+## ⌨️ Programmers 
 ### 🕹 SQL
 [GROUP BY](./Programmers/SQL/GROUP%20BY.md)
 
