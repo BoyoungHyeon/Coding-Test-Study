@@ -5,7 +5,7 @@
 ## 🪱 백준 온라인 저지
 
 ## ⌨️ Programmers 
-### 🕹 SQL
+### 🕹 SQL ( MySQL )
 [GROUP BY](./Programmers/SQL/GROUP%20BY.md)
 
 [MAX, MIN, COUNT, SUM](./Programmers/SQL/MAX,%20MIN,%20COUNT,%20SUM.md)
